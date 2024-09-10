@@ -1,0 +1,80 @@
+[
+    {
+        "rings": 1,
+        "difficulty": [0],
+        "gems": [1],
+        "xp": 1000
+    },
+    {
+        "rings": 2,
+        "difficulty": [0],
+        "gems": [1],
+        "xp": 950
+    },
+    {
+        "rings": 3,
+        "difficulty": [0],
+        "gems": [1],
+        "xp": 900
+    },
+    {
+        "rings": 4,
+        "difficulty": [0],
+        "gems": [1],
+        "xp": 800
+    },
+    {
+        "rings": 5,
+        "difficulty": [0],
+        "gems": [1],
+        "xp": 700
+    },
+
+    {
+        "rings": 3,
+        "difficulty": 2,
+        "gems": [1],
+        "xp": 700
+    },
+    {
+        "rings": 4,
+        "difficulty": 2,
+        "xp": 680
+    },
+    {
+        "rings": 5,
+        "difficulty": 2,
+        "xp": 660
+    },
+    {
+        "rings": 6,
+        "difficulty": 2,
+        "xp": 650
+    },
+
+    {
+        "rings": 3,
+        "difficulty": 3,
+        "xp": 640
+    },
+    {
+        "rings": 4,
+        "difficulty": 3,
+        "xp": 620
+    },
+    {
+        "rings": 5,
+        "difficulty": 3,
+        "xp": 600
+    },
+    {
+        "rings": 6,
+        "difficulty": 3,
+        "xp": 550
+    },
+    {
+        "rings": 6,
+        "difficulty": 3,
+        "xp": 500
+    }
+]
